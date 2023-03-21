@@ -13,9 +13,16 @@ but in the usual separate Maven `src` directories:
 - `src/test/java`:
   - `IntStackTest.java`: A skeleton for a class containing JUnit4 test cases for the `IntStack` class, containing one sample test case.
 
-Maven:
+### Maven:
 
 - `mvn compile` compiles all implementation classes.
 - `mvn exec:java` executes the main method of the implementation.
 - `mvn test` runs all test cases (i.e. all classes with a name that either starts with `Test` or ends with `Test`, `Tests`, or `TestCase`).
 
+### License:
+
+- [License](LICENSE.md)
+
+### UML class diagram:
+
+- [UML class diagram](src/site/markdown/documentation.md)

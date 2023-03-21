@@ -1,0 +1,1 @@
+![Description, UML class diagram](UMLClassDiagram.png "UML class diagram")
